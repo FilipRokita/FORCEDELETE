@@ -9,7 +9,7 @@ An application that allows you to delete a file, even when it is in use in anoth
 3. Input path to the directory you want to delete
 
 # Legal
-Developer assume no liability and are not responsible for any misuse or damage caused by FORCEDELETE.
+Developer assume no liability and is not responsible for any misuse or damage caused by FORCEDELETE.
 
 # Author
 Filip Rokita<br/>
